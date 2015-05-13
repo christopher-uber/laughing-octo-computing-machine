@@ -1,0 +1,178 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"1428043743352000\"",
+ "summary": "opensource25@gmail.com",
+ "updated": "2015-04-03T06:49:03.352Z",
+ "timeZone": "Australia/Sydney",
+ "accessRole": "owner",
+ "defaultReminders": [
+ ],
+ "nextSyncToken": "CMCpr8DF2cQCEMCpr8DF2cQCGAU=",
+ "items": [
+  {
+
+   "kind": "calendar#event",
+   "etag": "\"2853285697318000\"",
+   "id": "mk17nj3cnb3v424atta5usmgt0_20150406T010000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bWsxN25qM2NuYjN2NDI0YXR0YTV1c21ndDBfMjAxNTA0MDZUMDEwMDAwWiBvcGVuc291cmNlMjVAbQ",
+   "created": "2015-03-18T01:35:28.000Z",
+   "updated": "2015-03-18T01:40:48.659Z",
+   "summary": "INFO304 Lecture",
+   "location": "University of Melbourne, Parkville VIC 3010, Australia",
+   "colorId": "3",
+   "creator": {
+    "email": "opensource25@gmail.com",
+    "displayName": "Chris Uber",
+    "self": true
+   },
+   "organizer": {
+    "email": "opensource25@gmail.com",
+    "displayName": "Chris Uber",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-04-06T11:00:00+10:00",
+    "timeZone": "Australia/Sydney"
+   },
+   "end": {
+    "dateTime": "2015-04-06T11:50:00+10:00",
+    "timeZone": "Australia/Sydney"
+   },
+   "recurringEventId": "mk17nj3cnb3v424atta5usmgt0",
+   "originalStartTime": {
+    "dateTime": "2015-04-06T11:00:00+10:00",
+    "timeZone": "Australia/Sydney"
+   },
+   "iCalUID": "mk17nj3cnb3v424atta5usmgt0@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+
+   "kind": "calendar#event",
+   "etag": "\"2853285709672000\"",
+   "id": "kb8irbah0efl3343tico2vi01s_20150406T030000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=a2I4aXJiYWgwZWZsMzM0M3RpY28ydmkwMXNfMjAxNTA0MDZUMDMwMDAwWiBvcGVuc291cmNlMjVAbQ",
+   "created": "2015-03-18T01:32:04.000Z",
+   "updated": "2015-03-18T01:40:54.836Z",
+   "summary": "INFO202 Workshop ",
+   "description": "Jonathan",
+   "location": "Alice Hoy-109 ",
+   "colorId": "3",
+   "creator": {
+    "email": "opensource25@gmail.com",
+    "displayName": "Chris Uber",
+    "self": true
+   },
+   "organizer": {
+    "email": "opensource25@gmail.com",
+    "displayName": "Chris Uber",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-04-06T13:00:00+10:00",
+    "timeZone": "Australia/Sydney"
+   },
+   "end": {
+    "dateTime": "2015-04-06T15:00:00+10:00",
+    "timeZone": "Australia/Sydney"
+   },
+   "recurringEventId": "kb8irbah0efl3343tico2vi01s",
+   "originalStartTime": {
+    "dateTime": "2015-04-06T13:00:00+10:00",
+    "timeZone": "Australia/Sydney"
+   },
+   "iCalUID": "kb8irbah0efl3343tico2vi01s@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+
+   "kind": "calendar#event",
+   "etag": "\"2853285721444000\"",
+   "id": "p7v3ajgo8p75c40gmgaip1br7k_20150406T051500Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cDd2M2FqZ284cDc1YzQwZ21nYWlwMWJyN2tfMjAxNTA0MDZUMDUxNTAwWiBvcGVuc291cmNlMjVAbQ",
+   "created": "2015-03-18T01:31:53.000Z",
+   "updated": "2015-03-18T01:41:00.722Z",
+   "summary": "INFO 202 Lecture 1",
+   "location": "Engineering-407 (C1 Theatre)",
+   "colorId": "3",
+   "creator": {
+    "email": "opensource25@gmail.com",
+    "displayName": "Chris Uber",
+    "self": true
+   },
+   "organizer": {
+    "email": "opensource25@gmail.com",
+    "displayName": "Chris Uber",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-04-06T15:15:00+10:00",
+    "timeZone": "Australia/Sydney"
+   },
+   "end": {
+    "dateTime": "2015-04-06T16:15:00+10:00",
+    "timeZone": "Australia/Sydney"
+   },
+   "recurringEventId": "p7v3ajgo8p75c40gmgaip1br7k",
+   "originalStartTime": {
+    "dateTime": "2015-04-06T15:15:00+10:00",
+    "timeZone": "Australia/Sydney"
+   },
+   "iCalUID": "p7v3ajgo8p75c40gmgaip1br7k@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+
+   "kind": "calendar#event",
+   "etag": "\"2853285731342000\"",
+   "id": "ir0qmaqhopep97811hnssqafd8_20150406T061500Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=aXIwcW1hcWhvcGVwOTc4MTFobnNzcWFmZDhfMjAxNTA0MDZUMDYxNTAwWiBvcGVuc291cmNlMjVAbQ",
+   "created": "2015-03-18T01:36:16.000Z",
+   "updated": "2015-03-18T01:41:05.671Z",
+   "summary": "BIOM302 Lecture",
+   "location": "University of Melbourne, Parkville VIC 3010, Australia",
+   "colorId": "3",
+   "creator": {
+    "email": "opensource25@gmail.com",
+    "displayName": "Chris Uber",
+    "self": true
+   },
+   "organizer": {
+    "email": "opensource25@gmail.com",
+    "displayName": "Chris Uber",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-04-06T16:15:00+10:00",
+    "timeZone": "Australia/Sydney"
+   },
+   "end": {
+    "dateTime": "2015-04-06T17:05:00+10:00",
+    "timeZone": "Australia/Sydney"
+   },
+   "recurringEventId": "ir0qmaqhopep97811hnssqafd8",
+   "originalStartTime": {
+    "dateTime": "2015-04-06T16:15:00+10:00",
+    "timeZone": "Australia/Sydney"
+   },
+   "iCalUID": "ir0qmaqhopep97811hnssqafd8@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   }
+  }
+ ]
+}
